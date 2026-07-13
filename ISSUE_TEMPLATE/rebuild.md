@@ -1,6 +1,6 @@
 ---
 name: Rebuild
-about: Rebuild a project from surviving assets (ransomware, server loss, missing source)
+about: Rebuild a project
 title: "Rebuild "
 labels: rebuild
 ---
